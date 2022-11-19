@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=2500&pause=5&color=8D3FF7&multiline=true&width=900&height=200&lines=Hi%2C+I+am+Farbod+Shabani;Motivated+React+Developer+with+nearly+3+years+of+designing+useful%2C+pleasant+user+interfaces.;An+enthusiastic+developer+who+collaborates+with+team+members+to+search+for+best+practices.+;Carefully+design+each+product+based+on+the+requirements+and+financial+plans+of+the+user.+;+Discovering+Solutions+for+intricate+subjects+with+a+scrupulous+and+ambitious+mindset.+Eager+to+help;+the+team+to+achieve+its+goals." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=2500&pause=5&color=8D3FF7&multiline=true&width=900&height=200&lines=I+am+Farbod+Shabani;Motivated+React+Developer+with+nearly+3+years+of+designing+useful%2C+pleasant+user+interfaces.;An+enthusiastic+developer+who+collaborates+with+team+members+to+search+for+best+practices.+;Carefully+design+each+product+based+on+the+requirements+and+financial+plans+of+the+user.+;+Discovering+Solutions+for+intricate+subjects+with+a+scrupulous+and+ambitious+mindset.+Eager+to+help;+the+team+to+achieve+its+goals." alt="Typing SVG" /></a>
 
