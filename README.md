@@ -75,7 +75,7 @@ I just finished learning Nodejs and I am trying to deeper on the different matte
       </td>
       <td>
         <a href="https://stackblitz.com/@FarbodShabani">
-         <img src="https://img.shields.io/badge/stackblitz-040404?style=for-the-badge&logo=stackblitz&logoColor=yellow" alt="stackblitz Badge"/>
+         <img src="https://img.shields.io/badge/stackblitz-040404?style=for-the-badge&logo=stackblitz&logoColor=1389FD" alt="stackblitz Badge"/>
         </a>
       </td>
       <td>
