@@ -17,19 +17,28 @@ I just finished learning Nodejs and I am trying to deeper on the different matte
   <h3> Skills and abilities </h3>
 
   <ul>
-    <li>
-      <strong> Frontend – react: </strong>
-    </li>
+    <li> <strong> Frontend – react: </strong> </li>
     <ul>
-       <li>  material UI, Ant design, Semantic UI, Styled-Components, Redux, Context, Socket.IO
-      </li>
+       <li> material UI, Ant design, Semantic UI, Styled-Components, Redux, Context, Socket.IO </li>
+    </ul>
+    <li> <strong> Frontend – basic: </strong> </li>
+    <ul>
+       <li> HTML, CSS, JS, Bootstrap, jQuery, DOM, CSS Normalize, Moment js, GraphQL, TypeScript </li>
+    </ul>
+    <li> <strong> Backend - node: </strong> </li>
+    <ul>
+       <li> Express, MySQL (Sequelize), MongoDB (Mongoose), EJS, Socket.IO, REST API, SSR, GraphQL, TypeScript </li>
+    </ul>
+    <li> <strong> Mobile - Application: </strong> </li>
+    <ul>
+       <li> React-Native, redux </li>
+    </ul>
+    <li> <strong> Other software: </strong> </li>
+    <ul>
+       <li> GIT, Trello, Gitlab, GitHub, Bitbucket, Jira, Microsoft Teams, Confluence, Kibana (APM), Sentry, Visual Studio Code, Zeplin, Figma, Slack, Postman, Swagger </li>
     </ul>
   </ul>
 
-
-<div>
-  <a> is this working </a>
-  </div>
   
   
   </body>
