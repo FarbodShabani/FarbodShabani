@@ -33,12 +33,19 @@ I just finished learning Nodejs and I am trying to deeper on the different matte
     <ul>
        <li> React-Native, redux </li>
     </ul>
-    <li> <strong> Other software: </strong> </li>
+    <li> <strong> Other languages: </strong> </li>
     <ul>
-       <li> GIT, Trello, Gitlab, GitHub, Bitbucket, Jira, Microsoft Teams, Confluence, Kibana (APM), Sentry, Visual Studio Code, Zeplin, Figma, Slack, Postman, Swagger </li>
+       <li> C++, C, JAVA </li>
     </ul>
   </ul>
 
+  <h2>
+    Some of my porjects
+  </h2>
+  <table>
+    <th>
+    </th>
+  </table>
   
   
   </body>
