@@ -43,11 +43,34 @@ I just finished learning Nodejs and I am trying to deeper on the different matte
     Some of my porjects
   </h2>
   <a href="https://www.convose.com/"> Convose </a>
+  
   <a href="https://paradisehub.ir/"> Paradise Hub Shared Workspace </a>
 
+  <h2>
+    Follow or contact me 
+  </h2>
+  
   <table>
+    <tr>
     <th>
+      Social Media
     </th>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://www.linkedin.com/in/farbod-shabani/">
+         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+        </a>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+      <td>
+      </td>
+    </tr>
   </table>
   
   
