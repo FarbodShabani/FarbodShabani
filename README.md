@@ -75,7 +75,12 @@ I just finished learning Nodejs and I am trying to deeper on the different matte
       </td>
       <td>
         <a href="https://stackblitz.com/@FarbodShabani">
-         <img src="https://img.shields.io/badge/stackblitz-040404?style=for-the-badge&logo=stackblitz&logoColor=1389FD" alt="stackblitz Badge"/>
+         <img src="https://img.shields.io/badge/stackblitz-fff?style=for-the-badge&logo=stackblitz&logoColor=1389FD" alt="stackblitz Badge"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://replit.com/@farbodesham">
+         <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="replit Badge"/>
         </a>
       </td>
       <td>
