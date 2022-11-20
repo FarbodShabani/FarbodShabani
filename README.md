@@ -35,7 +35,7 @@ I just finished learning Nodejs and I am trying to deeper on the different matte
     </ul>
     <li> <strong> Other languages: </strong> </li>
     <ul>
-       <li> C++, C, JAVA </li>
+       <li> C++, C, JAVA, Python </li>
     </ul>
   </ul>
 
