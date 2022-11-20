@@ -42,7 +42,7 @@ I just finished learning Nodejs and I am trying to deeper on the different matte
   <h2>
     Some of my porjects
   </h2>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&pause=1000&color=B23AF7&background=FFFFFF24&center=true&vCenter=true&width=435&lines=Paradise+Hub+Shared+work+space" alt="Typing SVG" /></a> <span><img src/></span>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&pause=1000&color=B23AF7&background=FFFFFF24&center=true&vCenter=true&width=435&lines=Paradise+Hub+Shared+work+space" alt="Typing SVG" /></a> <span></span>
 
   <table>
     <th>
