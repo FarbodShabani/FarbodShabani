@@ -54,7 +54,7 @@ I just finished learning Nodejs and I am trying to deeper on the different matte
   <table>
     <tr>
       <td>
-        <a href="https://www.linkedin.com/in/farbod-shabani/">
+        <a href="https://www.linkedin.com/in/farbod-shabani/" target="__blank">
          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
       </td>
@@ -63,12 +63,12 @@ I just finished learning Nodejs and I am trying to deeper on the different matte
   <table>
     <tr>
       <td>
-        <a href="https://stackoverflow.com/users/14712252/farbod-shabani">
+        <a href="https://stackoverflow.com/users/14712252/farbod-shabani" target="__blank">
          <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow Badge"/>
         </a>
       </td>
       <td>
-        <a href="https://www.youtube.com/channel/UCn9PZourcR61qe5kVuYPCFg">
+        <a href="https://www.youtube.com/channel/UCn9PZourcR61qe5kVuYPCFg" target="__blank">
          <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube Badge"/>
         </a>
       </td>
@@ -77,7 +77,7 @@ I just finished learning Nodejs and I am trying to deeper on the different matte
   <table>
     <tr>
       <td>
-        <a href="https://codepen.io/FarbodShabani">
+        <a href="https://codepen.io/FarbodShabani" target="__blank">
          <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen Badge"/>
         </a>
       </td>
