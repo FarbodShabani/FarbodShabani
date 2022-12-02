@@ -54,7 +54,7 @@ I just finished learning Nodejs and I am trying to deeper on the different matte
   <table>
     <tr>
       <td>
-        <a href="https://www.linkedin.com/in/farbod-shabani/" target="__blank">
+        <a href="https://www.linkedin.com/in/farbod-shabani/" target="_blank">
          <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
       </td>
@@ -63,12 +63,12 @@ I just finished learning Nodejs and I am trying to deeper on the different matte
   <table>
     <tr>
       <td>
-        <a href="https://stackoverflow.com/users/14712252/farbod-shabani" target="__blank">
+        <a href="https://stackoverflow.com/users/14712252/farbod-shabani" target="_blank">
          <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow Badge"/>
         </a>
       </td>
       <td>
-        <a href="https://www.youtube.com/channel/UCn9PZourcR61qe5kVuYPCFg" target="__blank">
+        <a href="https://www.youtube.com/channel/UCn9PZourcR61qe5kVuYPCFg" target="_blank">
          <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube Badge"/>
         </a>
       </td>
@@ -77,22 +77,22 @@ I just finished learning Nodejs and I am trying to deeper on the different matte
   <table>
     <tr>
       <td>
-        <a href="https://codepen.io/FarbodShabani" target="__blank">
+        <a href="https://codepen.io/FarbodShabani" target="_blank">
          <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen Badge"/>
         </a>
       </td>
       <td>
-        <a href="https://codesandbox.io/u/FarbodShabani">
+        <a href="https://codesandbox.io/u/FarbodShabani" target="_blank">
          <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB" alt="codesandbox Badge"/>
         </a>
       </td>
       <td>
-        <a href="https://stackblitz.com/@FarbodShabani">
+        <a href="https://stackblitz.com/@FarbodShabani" target="_blank">
          <img src="https://img.shields.io/badge/stackblitz-fff?style=for-the-badge&logo=stackblitz&logoColor=1389FD" alt="stackblitz Badge"/>
         </a>
       </td>
       <td>
-        <a href="https://replit.com/@farbodesham">
+        <a href="https://replit.com/@farbodesham" target="_blank">
          <img src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" alt="replit Badge"/>
         </a>
       </td>
