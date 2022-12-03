@@ -3,7 +3,7 @@
     Hi There, My name is Farbod Shabani 😁
   </h1>
   <p>
-    I am React , Nodejs Developer
+    I am React , Nodejs Developer  
   </p>
   </header>
 <body>  
@@ -99,6 +99,12 @@ I just finished learning Nodejs and I am trying to deeper on the different matte
     </tr>
   </table>
   
+  <h2>
+    GitHub stuff
+  </h2>
+  <a href="https://github.com/antonkomarev/github-profile-views-counter">
+         <img src="https://komarev.com/ghpvc/?username=FarbodShabani&style=flat&color=blueviolet">
+    </a>
   
   </body>
 
