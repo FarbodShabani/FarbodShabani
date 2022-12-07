@@ -110,7 +110,7 @@ I just finished learning Nodejs and I am trying to deeper on the different matte
     GitHub Stuff
   </h2>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-         <img src="https://komarev.com/ghpvc/?username=FarbodShabani&style=flat&color=blueviolet">
+         <img src="https://komarev.com/ghpvc/?username=FarbodShabani&style=for-the-badge&color=blueviolet">
     </a>
   </body>
 
