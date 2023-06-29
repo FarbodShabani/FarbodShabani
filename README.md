@@ -19,7 +19,7 @@ I just finished learning Nodejs and I am trying to deeper on the different matte
   <ul>
     <li> <strong> Frontend – react: </strong> </li>
     <ul>
-       <li> material UI, Ant design, Semantic UI, Styled-Components, Redux, Context, Socket.IO </li>
+       <li> material UI, Ant design, Semantic UI, Styled-Components, Redux, Context, Socket.IO, Typescript, Tailwind, Graphql </li>
     </ul>
     <li> <strong> Frontend – basic: </strong> </li>
     <ul>
